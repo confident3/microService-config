@@ -10,3 +10,6 @@ spring:
       server:
         git:
           uri: git@github.com:confident3/microService-config.git
+          
+info:
+   version: 1111
